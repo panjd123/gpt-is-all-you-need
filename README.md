@@ -18,3 +18,7 @@ python output.py # 做一遍分数映射，同时删除评价列
 - 解析 PDF, DOCX 到 Markdown
 - 将文本类文件合并到 prompt 中向 GPT 提问
 - 图片会告知 GPT 这里有一个图片，但是不能直接输入图片（API 限制）
+
+## 生成效果
+
+![alt text](example.jpg)
