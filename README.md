@@ -18,7 +18,7 @@ python manual.py
 
 - 解压 .zip 压缩包（只能解压一层）
 - 解析 PDF, DOCX 到 Markdown
-- 如果你已经解压好了文件，你
+- 如果你已经解压好了文件，你可能需要改动一下脚本，让他直接调用 deal_with 函数
 - 将文本类文件合并到 prompt 中向 GPT 提问
 - 图片会告知 GPT 这里有一个图片，但是不能直接输入图片（API 限制）
 
